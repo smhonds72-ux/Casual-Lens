@@ -1,0 +1,8 @@
+{
+  "name": "Causal Lens",
+  "description": "Real-time causal reasoning engine that analyzes live video to explain why things happen, building an evolving model of cause and effect.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
